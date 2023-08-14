@@ -5,7 +5,7 @@ and definitely not for Kubernetes.
 
 What is wrong with Fluent (Bit)
 
-* Pipeline dies with DNS resolution error https://github.com/fluent/fluent-bit/issues/5654
+* Pipeline dies with DNS resolution error https://github.com/fluent/fluent-bit/issues/5654 https://github.com/fluent/fluentd/pull/2808
 * Retry logic is not enabled by default and has no effect for the DNS cornercase
 
 What is wrong with ElasticSearch
